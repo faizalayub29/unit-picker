@@ -1,0 +1,27 @@
+{
+    "name": "unit-picker-canvas",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "d3": "^7.8.5",
+        "keycode-js": "^3.1.0",
+        "primeflex": "^3.3.1",
+        "primeicons": "^6.0.1",
+        "primevue": "^3.32.1",
+        "vue": "^3.3.11"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^4.5.2",
+        "node-sass": "^9.0.0",
+        "resolve-url-loader": "^5.0.0",
+        "sass": "^1.66.1",
+        "sass-loader": "^13.3.2",
+        "vite": "^5.0.8"
+    }
+}

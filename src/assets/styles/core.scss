@@ -1,0 +1,76 @@
+@import url('primeicons/primeicons.css');
+@import url('primevue/resources/themes/tailwind-light/theme.css');
+@import url('primeflex/primeflex.min.css');
+
+html {
+	font-size: 16px;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: var(--text-color);
+	font-weight: 400;
+	margin: 0;
+	min-height: 100%;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.sdp-canvas-base{
+    height: 100%;
+    width: 100%;
+
+    &.active-mode {
+        .unit-selector{
+            fill: var(--orange-100);
+        }
+
+        svg{
+            cursor: pointer;
+        }
+    }
+
+    svg{
+        background: var(--surface-0);
+        border-radius: var(--border-radius);
+    }
+
+    .unit-selector{
+        transition: fill 0.5s ease;
+        fill: var(--surface-ground);
+
+        ~ *{
+            user-select: none;
+            pointer-events: none;
+        }
+    }
+
+    .selector-area{
+        stroke: var(--yellow-500);
+        fill: #eec1375e;
+        border-radius: 3px;
+    }
+}
+
+.highlighted{
+    fill: var(--orange-400) !important;
+}
+
+.tool-button-size{
+    height: 20px;
+    width: 20px;
+    font-size: 10px;
+}
+
+.tool-dropdown-size{
+    height: 20px;
+	padding: 0 1rem !important;
+	font-size: 10px !important;
+	display: flex;
+	align-items: center;
+
+    .p-dropdown-trigger{
+        display: none !important;
+    }
+}

@@ -1,0 +1,2352 @@
+<svg id="mySVG" scale="1.3" xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 841.89 335.33" x="-1" y="12" xml:space="preserve" style="user-select: none; touch-action: none; transform-origin: 50% 50%; transition: none 0s ease 0s; transform: scale(1) translate(0px, 0px);">
+   <style type="text/css"> .st0 { fill: #a5a7aa; } .st1 { fill: #e6f0c5; stroke: #000000; stroke-width: 0.5; stroke-miterlimit: 10; } .st2 { font-family: 'Gotham-Medium'; } .st3 { font-size: 4.5304px; } .st4 { font-size: 5.8248px; } .st5 { opacity: 0.8; fill: #ffffff; } .st6 { fill: none; stroke: #000000; stroke-width: 0.9708; stroke-miterlimit: 10; } .st7 { fill: none; stroke: #000000; stroke-width: 0.9708; stroke-miterlimit: 10; stroke-dasharray: 6.0288, 6.0288; } .st8 { fill: none; stroke: #000000; stroke-width: 0.9708; stroke-miterlimit: 10; stroke-dasharray: 5.7513, 5.7513; } .st9 { fill: none; stroke: #000000; stroke-width: 0.9708; stroke-miterlimit: 10; stroke-dasharray: 5.8248; } .st10 { fill: #fbddea; stroke: #000000; stroke-width: 0.3197; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; } .st11 { fill: #d4e3f5; stroke: #000000; stroke-width: 0.3197; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; } .st12 { fill: #ffdcac; stroke: #000000; stroke-width: 0.3197; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; } .st13 { font-family: 'Avenir-Medium'; } .st14 { font-size: 6.919px; } .st15 { fill: #4c4c4b; } .st16 { fill: #4d4c4b; } .st17 { font-size: 11.1226px; } .st18 { fill: none; stroke: #000000; stroke-width: 0.5; stroke-miterlimit: 10; } .st19 { fill: #ffdcac; stroke: #000000; stroke-width: 0.2365; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; } .st20 { fill: none; stroke: #000000; stroke-width: 0.3236; stroke-miterlimit: 10; } .st21 { fill: #fbddea; stroke: #000000; stroke-width: 0.2365; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; } .st22 { fill: #d4e3f5; stroke: #000000; stroke-width: 0.2365; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; } .st23 { font-size: 3.8832px; } </style>
+   <g id="Layer_1">
+      <g>
+         <g>
+            <polygon points="818.64,171.05 818.64,200.9 216.43,197.02 186.95,200.9 91.31,225.38 21,226.19 21,35.92      818.64,35.92    " class="st0"></polygon>
+            <path d="M50.09,36.59" class="st1"></path>
+            <path d="M50.06,36.18l0.02,0.41v35.97h0c-0.76,0-0.94,0.48-1.67,0.6c-9.56,1.52-17.55,12.05-17.55,21.91v131H22.3     v25.02h28.29v-25.02h-8.56v-21.03c0-6.23,5.05-11.28,11.28-11.28h745.9V75.44h-11.55l0.01-39.27h30.98V200.9H186.95v85.42H14.83     V36.63" class="st1"></path>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 34.5469 242.5602)" class="st2 st3">PE</text>
+                  <text transform="matrix(1 0 0 1 402.8599 80.3253)" class="st2 st4">JALAN NGAJAT 8/KU5</text>
+                  <text transform="matrix(1 0 0 1 402.8599 190.3492)" class="st2 st4">JALAN NGAJAT 9/KU5</text>
+               </g>
+            </g>
+            <g>
+               <path d="M50.09,35.93v36.64h173.29c15.1,0,13.48-12.08,13.48-12.08V35.93H50.09z" class="st5"></path>
+               <path d="M787.89,36.28v36.28H618.38c-5.96,0-10.08-2.1-12.2-5.3c-3.27-4.93-2.57-11.74-2.57-11.74V36.28H787.89z" class="st5"></path>
+               <g>
+                  <g>
+                     <line x1="50.09" x2="50.09" y1="36.59" y2="39.5" class="st6"></line>
+                     <line x1="50.09" x2="50.09" y1="45.53" y2="66.63" class="st7"></line>
+                     <polyline points="50.09,69.65 50.09,72.56 53,72.56       " class="st6"></polyline>
+                     <path d="M58.75,72.56h164.62c15.1,0,13.48-12.08,13.48-12.08V41.71" class="st8"></path>
+                     <line x1="236.86" x2="236.86" y1="38.83" y2="35.92" class="st6"></line>
+                  </g>
+               </g>
+               <path d="M787.89,36.28v36.28H618.38c-5.96,0-10.08-2.1-12.2-5.3c-3.27-4.93-2.57-11.74-2.57-11.74V36.28" class="st9"></path>
+               <rect height="98.37" width="768.55" x="31.15" y="83.56" class="st9"></rect>
+            </g>
+            <path d="M248.54,35.92v25.44c0,6.22,5.04,11.26,11.26,11.26h137.47h46.7h137.47c6.22,0,11.26-5.04,11.26-11.26V35.92     " class="st1"></path>
+         </g>
+      </g>
+      <g>
+         <g>
+            <g>
+               <rect height="11.89" width="23.49" x="651" y="250.47" class="st10"></rect>
+               <rect height="11.89" width="23.49" x="651" y="273.15" class="st11"></rect>
+               <rect height="11.89" width="23.49" x="651" y="298.11" class="st12"></rect>
+               <text transform="matrix(1 0 0 1 682.124 254.4385)">
+                  <tspan x="0" y="0" class="st13 st14">Type A/Am</tspan>
+                  <tspan x="0" y="8.3" class="st13 st14">Intermediate Unit | 20’x75’</tspan>
+               </text>
+               <text transform="matrix(1 0 0 1 651.002 239.126)" class="st13 st14">LEGEND</text>
+               <text transform="matrix(1 0 0 1 682.124 277.1875)">
+                  <tspan x="0" y="0" class="st13 st14">Type E/Em</tspan>
+                  <tspan x="0" y="8.3" class="st13 st14">End Unit | 22’x75’</tspan>
+               </text>
+               <text transform="matrix(1 0 0 1 682.124 299.9365)">
+                  <tspan x="0" y="0" class="st13 st14">Type C/Cm</tspan>
+                  <tspan x="0" y="8.3" class="st13 st14">Corner Unit | 22' x 75'</tspan>
+               </text>
+            </g>
+         </g>
+      </g>
+      <g>
+         <polygon points="807.16,213.48 801.22,223.77 807.16,221.25 813.1,223.77   " class="st15"></polygon>
+         <g>
+            <text transform="matrix(1 0 0 1 802.6772 237.434)" class="st16 st2 st17">N</text>
+         </g>
+      </g>
+      <line x1="14.83" x2="787.66" y1="36.12" y2="36.12" class="st18"></line>
+   </g>
+   <g id="BBR2_-_R10E/118" pin-x="764.315" pin-y="127.09" class="unit open none">
+      <polygon id="BBR2_-_R10E/118_land" points="780.97,167.78 773.32,175.43 757.66,175.43 757.66,137.09 780.97,137.09     " class="land st19"></polygon>
+      <g id="BBR2_-_R10E/118_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 763.394 142.8903)" class="st2 st3">Cm</text>
+         </g>
+         <rect height="4.96" width="7.98" x="762.13" y="168.51" class="st20"></rect>
+         <text transform="matrix(0 -0.85 1 0 767.7104 163.774)" class="st2 st3">R10E-118</text>
+         <g>
+            <text transform="matrix(0.85 0 0 1 765.1294 172.7047)" class="st2 st3">2</text>
+         </g>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/117" pin-x="747.535" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/117_land" width="10.25" x="747.41" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/117_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 749.7065 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 750.3657 172.5846)" class="st2 st3">2A</text>
+            </g>
+            <rect height="4.96" width="7.98" x="748.54" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 754.2817 163.774)" class="st2 st3">R10E-117</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/116" pin-x="737.285" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/116_land" width="10.25" x="737.16" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/116_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 741.105 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 741.2974 172.5846)" class="st2 st3">6</text>
+            </g>
+            <rect height="4.96" width="7.98" x="738.29" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 743.9263 163.774)" class="st2 st3">R10E-116</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/115" pin-x="727.035" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/115_land" width="10.25" x="726.91" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/115_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 729.2524 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 731.0503 172.5846)" class="st2 st3">8</text>
+            </g>
+            <rect height="4.96" width="7.98" x="728.05" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 733.5708 163.774)" class="st2 st3">R10E-115</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/114" pin-x="716.795" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/114_land" width="10.25" x="716.67" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/114_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 720.6519 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 719.814 172.5846)" class="st2 st3">10</text>
+            </g>
+            <rect height="4.96" width="7.98" x="717.8" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 723.6206 163.774)" class="st2 st3">R10E-114</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/113" pin-x="706.545" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/113_land" width="10.25" x="706.42" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/113_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 708.7993 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 709.5669 172.5846)" class="st2 st3">12</text>
+            </g>
+            <rect height="4.96" width="7.98" x="707.55" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 713.3462 163.774)" class="st2 st3">R10E-113</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/112" pin-x="696.295" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/112_land" width="10.25" x="696.17" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/112_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 700.1987 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 698.1416 172.5846)" class="st2 st3">12A</text>
+            </g>
+            <rect height="4.96" width="7.98" x="697.3" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 703.0718 163.774)" class="st2 st3">R10E-112</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/111" pin-x="686.045" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/111_land" width="10.25" x="685.92" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/111_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 688.3447 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 689.0728 172.5846)" class="st2 st3">16</text>
+            </g>
+            <rect height="4.96" width="7.98" x="687.06" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 692.7974 163.774)" class="st2 st3">R10E-111</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/110" pin-x="675.805" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/110_land" width="10.25" x="675.68" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/110_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 679.7441 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 678.8257 172.5846)" class="st2 st3">18</text>
+            </g>
+            <rect height="4.96" width="7.98" x="676.81" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 682.5229 163.774)" class="st2 st3">R10E-110</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/109" pin-x="665.555" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/109_land" width="10.25" x="665.43" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/109_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 667.8911 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 668.5781 172.5846)" class="st2 st3">20</text>
+            </g>
+            <rect height="4.96" width="7.98" x="666.56" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 672.2485 163.774)" class="st2 st3">R10E-109</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/108" pin-x="655.305" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/108_land" width="10.25" x="655.18" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/108_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 659.2905 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 658.3311 172.5846)" class="st2 st3">22</text>
+            </g>
+            <rect height="4.96" width="7.98" x="656.32" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 661.9751 163.774)" class="st2 st3">R10E-108</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/107" pin-x="645.065" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/107_land" width="10.25" x="644.94" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/107_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 647.4375 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 646.9058 172.5846)" class="st2 st3">22A</text>
+            </g>
+            <rect height="4.96" width="7.98" x="646.07" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 651.7007 163.774)" class="st2 st3">R10E-107</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/106" pin-x="634.815" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/106_land" width="10.25" x="634.69" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/106_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 638.8369 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 637.8369 172.5846)" class="st2 st3">26</text>
+            </g>
+            <rect height="4.96" width="7.98" x="635.82" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 641.4263 163.774)" class="st2 st3">R10E-106</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/105" pin-x="624.565" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/105_land" width="10.25" x="624.44" y="137.09" class="land st21"></rect>
+      <g id="BBR2_-_R10E/105_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 627.0244 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 627.5898 172.5846)" class="st2 st3">28</text>
+            </g>
+            <rect height="4.96" width="7.98" x="625.57" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 631.1519 163.774)" class="st2 st3">R10E-105</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/104" pin-x="610.835" pin-y="127.09" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/104_land" width="17.21" x="607.23" y="137.09" class="land st22"></rect>
+      <g id="BBR2_-_R10E/104_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 615.2886 142.8903)" class="st2 st3">E</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 614.2607 172.5846)" class="st2 st3">30</text>
+            </g>
+            <rect height="4.96" width="7.98" x="612.25" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 617.8843 163.774)" class="st2 st3">R10E-104</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/103" pin-x="583.53" pin-y="127.12" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/103_land" width="17.54" x="579.76" y="137.12" class="land st22"></rect>
+      <g id="BBR2_-_R10E/103_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 586.3149 142.8903)" class="st2 st3">Em</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 586.8921 172.5846)" class="st2 st3">32</text>
+            </g>
+            <rect height="4.96" width="7.98" x="584.88" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 590.5166 163.774)" class="st2 st3">R10E-103</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/102" pin-x="569.645" pin-y="127.12" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/102_land" width="10.23" x="569.53" y="137.12" class="land st21"></rect>
+      <g id="BBR2_-_R10E/102_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 573.4663 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 571.4917 172.5846)" class="st2 st3">32A</text>
+               </g>
+               <rect height="4.96" width="7.98" x="570.65" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 576.2939 163.774)" class="st2 st3">R10E-102</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/101" pin-x="559.415" pin-y="127.12" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/101_land" width="10.23" x="559.3" y="137.12" class="land st21"></rect>
+      <g id="BBR2_-_R10E/101_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 561.6294 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 562.4385 172.5846)" class="st2 st3">36</text>
+               </g>
+               <rect height="4.96" width="7.98" x="560.42" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 566.0625 163.774)" class="st2 st3">R10E-101</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/100" pin-x="549.1850000000001" pin-y="127.12" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/100_land" width="10.23" x="549.07" y="137.12" class="land st21"></rect>
+      <g id="BBR2_-_R10E/100_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 553.0034 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 552.2075 172.5846)" class="st2 st3">38</text>
+               </g>
+               <rect height="4.96" width="7.98" x="550.19" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 555.8311 163.774)" class="st2 st3">R10E-100</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/099" pin-x="538.955" pin-y="127.12" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/099_land" width="10.23" x="538.84" y="137.12" class="land st21"></rect>
+      <g id="BBR2_-_R10E/099_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 541.1665 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 541.9746 172.5846)" class="st2 st3">40</text>
+               </g>
+               <rect height="4.96" width="7.98" x="539.96" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 545.5991 163.774)" class="st2 st3">R10E-099</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/098" pin-x="528.715" pin-y="127.12" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/098_land" width="10.23" x="528.6" y="137.12" class="land st21"></rect>
+      <g id="BBR2_-_R10E/098_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 532.5405 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 531.7437 172.5846)" class="st2 st3">42</text>
+               </g>
+               <rect height="4.96" width="7.98" x="529.73" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 535.3677 163.774)" class="st2 st3">R10E-098</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/097" pin-x="518.485" pin-y="127.12" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/097_land" width="10.23" x="518.37" y="137.12" class="land st21"></rect>
+      <g id="BBR2_-_R10E/097_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 520.7036 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 520.334 172.5846)" class="st2 st3">42A</text>
+               </g>
+               <rect height="4.96" width="7.98" x="519.5" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 525.1362 163.774)" class="st2 st3">R10E-097</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/096" pin-x="508.255" pin-y="127.12" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/096_land" width="10.23" x="508.14" y="137.12" class="land st21"></rect>
+      <g id="BBR2_-_R10E/096_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 512.0776 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 511.2808 172.5846)" class="st2 st3">46</text>
+               </g>
+               <rect height="4.96" width="7.98" x="509.27" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 514.9053 163.774)" class="st2 st3">R10E-096</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/095" pin-x="498.02500000000003" pin-y="127.12" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/095_land" width="10.23" x="497.91" y="137.12" class="land st21"></rect>
+      <g id="BBR2_-_R10E/095_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 500.2407 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 501.0488 172.5846)" class="st2 st3">48</text>
+               </g>
+               <rect height="4.96" width="7.98" x="499.03" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 504.6724 163.774)" class="st2 st3">R10E-095</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/094" pin-x="487.795" pin-y="127.12" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/094_land" width="10.23" x="487.68" y="137.12" class="land st21"></rect>
+      <g id="BBR2_-_R10E/094_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 491.6147 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 490.8174 172.5846)" class="st2 st3">50</text>
+               </g>
+               <rect height="4.96" width="7.98" x="488.8" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 494.4409 163.774)" class="st2 st3">R10E-094</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/093" pin-x="477.565" pin-y="127.12" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/093_land" width="10.23" x="477.45" y="137.12" class="land st21"></rect>
+      <g id="BBR2_-_R10E/093_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 479.7773 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 480.5854 172.5846)" class="st2 st3">52</text>
+               </g>
+               <rect height="4.96" width="7.98" x="478.57" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 484.2095 163.774)" class="st2 st3">R10E-093</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/092" pin-x="467.325" pin-y="127.12" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/092_land" width="10.23" x="467.21" y="137.12" class="land st21"></rect>
+      <g id="BBR2_-_R10E/092_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 471.1514 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 469.1763 172.5846)" class="st2 st3">52A</text>
+               </g>
+               <rect height="4.96" width="7.98" x="468.34" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 473.978 163.774)" class="st2 st3">R10E-092</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/091" pin-x="449.485" pin-y="127.12" class="unit open none">
+      <polygon id="BBR2_-_R10E/091_land" points="449.39,175.49 441.76,167.81 441.76,137.12 467.21,137.12 467.21,175.49  " class="land st19"></polygon>
+      <g id="BBR2_-_R10E/091_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 456.3945 142.8903)" class="st2 st3">C</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 455.5356 172.5846)" class="st2 st3">56</text>
+               </g>
+               <rect height="4.96" width="7.98" x="453.52" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 459.1597 163.774)" class="st2 st3">R10E-091</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/090" pin-x="449.485" pin-y="80.97" class="unit open none">
+      <polygon id="BBR2_-_R10E/090_land" points="449.39,90.97 441.76,98.66 441.76,129.34 467.21,129.34 467.21,90.97  " class="land st19"></polygon>
+      <g id="BBR2_-_R10E/090_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 454.7886 126.7906)" class="st2 st3">Cm</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 455.5356 96.7233)" class="st2 st3">55</text>
+            </g>
+            <rect height="4.96" width="7.98" x="453.52" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 459.1597 117.6862)" class="st2 st3">R10E-090</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/089" pin-x="467.325" pin-y="80.97" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/089_land" width="10.23" x="467.21" y="90.97" class="land st21"></rect>
+      <g id="BBR2_-_R10E/089_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 469.5454 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 470.3545 96.7233)" class="st2 st3">53</text>
+            </g>
+            <rect height="4.96" width="7.98" x="468.34" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 473.978 117.6862)" class="st2 st3">R10E-089</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/088" pin-x="477.565" pin-y="80.97" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/088_land" width="10.23" x="477.45" y="90.97" class="land st21"></rect>
+      <g id="BBR2_-_R10E/088_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 481.3828 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 480.5854 96.7233)" class="st2 st3">51</text>
+            </g>
+            <rect height="4.96" width="7.98" x="478.57" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 484.2095 117.6862)" class="st2 st3">R10E-088</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/087" pin-x="487.795" pin-y="80.97" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/087_land" width="10.23" x="487.68" y="90.97" class="land st21"></rect>
+      <g id="BBR2_-_R10E/087_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 490.0083 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 490.8174 96.7233)" class="st2 st3">49</text>
+            </g>
+            <rect height="4.96" width="7.98" x="488.8" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 494.4409 117.6862)" class="st2 st3">R10E-087</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/086" pin-x="498.02500000000003" pin-y="80.97" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/086_land" width="10.23" x="497.91" y="90.97" class="land st21"></rect>
+      <g id="BBR2_-_R10E/086_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 501.8457 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 501.0488 96.7233)" class="st2 st3">47</text>
+            </g>
+            <rect height="4.96" width="7.98" x="499.03" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 504.6724 117.6862)" class="st2 st3">R10E-086</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/085" pin-x="508.255" pin-y="80.97" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/085_land" width="10.23" x="508.14" y="90.97" class="land st21"></rect>
+      <g id="BBR2_-_R10E/085_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 510.4722 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 511.2808 96.7233)" class="st2 st3">45</text>
+            </g>
+            <rect height="4.96" width="7.98" x="509.27" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 514.9053 117.6862)" class="st2 st3">R10E-085</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/084" pin-x="518.485" pin-y="80.97" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/084_land" width="10.23" x="518.37" y="90.97" class="land st21"></rect>
+      <g id="BBR2_-_R10E/084_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 522.3091 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 521.5122 96.7233)" class="st2 st3">43</text>
+            </g>
+            <rect height="4.96" width="7.98" x="519.5" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 525.1362 117.6862)" class="st2 st3">R10E-084</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/083" pin-x="528.715" pin-y="80.97" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/083_land" width="10.23" x="528.6" y="90.97" class="land st21"></rect>
+      <g id="BBR2_-_R10E/083_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 530.9351 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 531.7437 96.7233)" class="st2 st3">41</text>
+            </g>
+            <rect height="4.96" width="7.98" x="529.73" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 535.3677 117.6862)" class="st2 st3">R10E-083</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/082" pin-x="538.955" pin-y="80.97" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/082_land" width="10.23" x="538.84" y="90.97" class="land st21"></rect>
+      <g id="BBR2_-_R10E/082_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 542.772 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 541.9746 96.7233)" class="st2 st3">39</text>
+            </g>
+            <rect height="4.96" width="7.98" x="539.96" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 545.5991 117.6862)" class="st2 st3">R10E-082</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/081" pin-x="549.1850000000001" pin-y="80.97" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/081_land" width="10.23" x="549.07" y="90.97" class="land st21"></rect>
+      <g id="BBR2_-_R10E/081_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 551.3984 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 552.2075 96.7233)" class="st2 st3">37</text>
+            </g>
+            <rect height="4.96" width="7.98" x="550.19" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 555.8311 117.6862)" class="st2 st3">R10E-081</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/080" pin-x="559.415" pin-y="80.97" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/080_land" width="10.23" x="559.3" y="90.97" class="land st21"></rect>
+      <g id="BBR2_-_R10E/080_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 563.2358 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 562.4385 96.7233)" class="st2 st3">35</text>
+            </g>
+            <rect height="4.96" width="7.98" x="560.42" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 566.0625 117.6862)" class="st2 st3">R10E-080</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/079" pin-x="569.645" pin-y="80.97" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/079_land" width="10.23" x="569.53" y="90.97" class="land st21"></rect>
+      <g id="BBR2_-_R10E/079_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 571.8608 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 572.6699 96.7233)" class="st2 st3">33</text>
+            </g>
+            <rect height="4.96" width="7.98" x="570.65" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 576.2939 117.6862)" class="st2 st3">R10E-079</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/078" pin-x="583.53" pin-y="80.97" class="unit open none">
+      <rect height="38.37" id="BBR2_-_R10E/078_land" width="17.54" x="579.76" y="90.97" class="land st22"></rect>
+      <g id="BBR2_-_R10E/078_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 587.9204 126.7906)" class="st2 st3">E</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 586.8921 96.7233)" class="st2 st3">31</text>
+            </g>
+            <rect height="4.96" width="7.98" x="584.88" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 590.5166 117.6862)" class="st2 st3">R10E-078</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/077" pin-x="610.835" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/077_land" width="17.21" x="607.23" y="91" class="land st22"></rect>
+      <g id="BBR2_-_R10E/077_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 613.6826 126.7906)" class="st2 st3">Em</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 614.2607 96.7233)" class="st2 st3">29</text>
+            </g>
+            <rect height="4.96" width="7.98" x="612.25" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 617.8843 117.6862)" class="st2 st3">R10E-077</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/076" pin-x="624.565" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/076_land" width="10.25" x="624.44" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/076_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 628.6304 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 627.5898 96.7233)" class="st2 st3">27</text>
+            </g>
+            <rect height="4.96" width="7.98" x="625.57" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 631.1519 117.6862)" class="st2 st3">R10E-076</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/075" pin-x="634.815" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/075_land" width="10.25" x="634.69" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/075_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 637.231 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 637.8369 96.7233)" class="st2 st3">25</text>
+            </g>
+            <rect height="4.96" width="7.98" x="635.82" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 641.4263 117.6862)" class="st2 st3">R10E-075</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/074" pin-x="645.065" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/074_land" width="10.25" x="644.94" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/074_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 649.084 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 648.084 96.7233)" class="st2 st3">23</text>
+            </g>
+            <rect height="4.96" width="7.98" x="646.07" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 651.7007 117.6862)" class="st2 st3">R10E-074</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/073" pin-x="655.305" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/073_land" width="10.25" x="655.18" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/073_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 657.6846 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 658.3311 96.7233)" class="st2 st3">21</text>
+            </g>
+            <rect height="4.96" width="7.98" x="656.32" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 661.9751 117.6862)" class="st2 st3">R10E-073</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/072" pin-x="665.555" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/072_land" width="10.25" x="665.43" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/072_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 669.5376 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 668.5781 96.7233)" class="st2 st3">19</text>
+            </g>
+            <rect height="4.96" width="7.98" x="666.56" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 672.2485 117.6862)" class="st2 st3">R10E-072</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/071" pin-x="675.805" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/071_land" width="10.25" x="675.68" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/071_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 678.1382 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 678.8257 96.7233)" class="st2 st3">17</text>
+            </g>
+            <rect height="4.96" width="7.98" x="676.81" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 682.5229 117.6862)" class="st2 st3">R10E-071</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/070" pin-x="686.045" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/070_land" width="10.25" x="685.92" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/070_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 689.9922 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 689.0728 96.7233)" class="st2 st3">15</text>
+            </g>
+            <rect height="4.96" width="7.98" x="687.06" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 692.7974 117.6862)" class="st2 st3">R10E-070</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/069" pin-x="696.295" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/069_land" width="10.25" x="696.17" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/069_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 698.5928 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 698.1416 96.7233)" class="st2 st3">11A</text>
+            </g>
+            <rect height="4.96" width="7.98" x="697.3" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 703.0718 117.6862)" class="st2 st3">R10E-069</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/068" pin-x="706.545" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/068_land" width="10.25" x="706.42" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/068_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 710.4458 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 709.5669 96.7233)" class="st2 st3">11</text>
+            </g>
+            <rect height="4.96" width="7.98" x="707.55" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 713.3462 117.6862)" class="st2 st3">R10E-068</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/067" pin-x="716.795" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/067_land" width="10.25" x="716.67" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/067_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 719.0464 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 720.8022 96.7233)" class="st2 st3">9</text>
+            </g>
+            <rect height="4.96" width="7.98" x="717.8" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 723.6206 117.6862)" class="st2 st3">R10E-067</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/066" pin-x="727.035" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/066_land" width="10.25" x="726.91" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/066_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 730.8989 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 731.0503 96.7233)" class="st2 st3">7</text>
+            </g>
+            <rect height="4.96" width="7.98" x="728.05" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 733.5708 117.6862)" class="st2 st3">R10E-066</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/065" pin-x="737.285" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/065_land" width="10.25" x="737.16" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/065_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 739.4995 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 741.2974 96.7233)" class="st2 st3">5</text>
+            </g>
+            <rect height="4.96" width="7.98" x="738.29" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 743.9263 117.6862)" class="st2 st3">R10E-065</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/064" pin-x="747.535" pin-y="81.0" class="unit open none">
+      <rect height="38.34" id="BBR2_-_R10E/064_land" width="10.25" x="747.41" y="91" class="land st21"></rect>
+      <g id="BBR2_-_R10E/064_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 751.353 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 751.5444 96.7233)" class="st2 st3">3</text>
+            </g>
+            <rect height="4.96" width="7.98" x="748.54" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 754.2817 117.6862)" class="st2 st3">R10E-064</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/063" pin-x="764.315" pin-y="81.0" class="unit open none">
+      <polygon id="BBR2_-_R10E/063_land" points="780.97,98.66 773.32,91 757.66,91 757.66,129.34 780.97,129.34  " class="land st19"></polygon>
+      <g id="BBR2_-_R10E/063_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 765.1294 96.8444)" class="st2 st3">1</text>
+         </g>
+         <g>
+            <text transform="matrix(0.85 0 0 1 764.9995 126.7906)" class="st2 st3">C</text>
+         </g>
+         <rect height="4.96" width="7.98" x="762.13" y="92.65" class="st20"></rect>
+         <text transform="matrix(0 -0.85 1 0 767.7104 117.6862)" class="st2 st3">R10E-063</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/062" pin-x="399.66999999999996" pin-y="127.03999999999999" class="unit open none">
+      <polygon id="BBR2_-_R10E/062_land" points="408.84,175.53 416.51,167.85 416.51,137.04 392.83,137.04 392.83,175.53     " class="land st19"></polygon>
+      <g>
+         <text transform="matrix(0.85 0 0 1 400.1904 172.7047)" class="st2 st3">58</text>
+      </g>
+      <g id="BBR2_-_R10E/062_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 399.4434 142.8903)" class="st2 st3">Cm</text>
+         </g>
+         <rect height="4.96" width="7.98" x="398.18" y="168.51" class="st20"></rect>
+         <text transform="matrix(0 -0.85 1 0 403.7607 163.774)" class="st2 st3">R10E-062</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/061" pin-x="382.705" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/061_land" width="10.25" x="382.58" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/061_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 384.8794 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 385.7295 172.5846)" class="st2 st3">60</text>
+            </g>
+            <rect height="4.96" width="7.98" x="383.71" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 389.4541 163.774)" class="st2 st3">R10E-061</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/060" pin-x="372.455" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/060_land" width="10.25" x="372.33" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/060_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 376.2793 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 375.4824 172.5846)" class="st2 st3">62</text>
+            </g>
+            <rect height="4.96" width="7.98" x="373.47" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 379.0996 163.774)" class="st2 st3">R10E-060</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/059" pin-x="362.215" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/059_land" width="10.25" x="362.09" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/059_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 364.4263 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 364.0566 172.5846)" class="st2 st3">62A</text>
+            </g>
+            <rect height="4.96" width="7.98" x="363.22" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 368.7441 163.774)" class="st2 st3">R10E-059</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/058" pin-x="351.965" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/058_land" width="10.25" x="351.84" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/058_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 355.8257 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 354.9878 172.5846)" class="st2 st3">66</text>
+            </g>
+            <rect height="4.96" width="7.98" x="352.97" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 358.7935 163.774)" class="st2 st3">R10E-058</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/057" pin-x="341.715" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/057_land" width="10.25" x="341.59" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/057_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 343.9722 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 344.7407 172.5846)" class="st2 st3">68</text>
+            </g>
+            <rect height="4.96" width="7.98" x="342.73" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 348.519 163.774)" class="st2 st3">R10E-057</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/056" pin-x="331.475" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/056_land" width="10.25" x="331.35" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/056_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 335.3716 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 334.4932 172.5846)" class="st2 st3">70</text>
+            </g>
+            <rect height="4.96" width="7.98" x="332.48" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 338.2451 163.774)" class="st2 st3">R10E-056</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/055" pin-x="321.225" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/055_land" width="10.25" x="321.1" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/055_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 323.5181 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 324.2461 172.5846)" class="st2 st3">72</text>
+            </g>
+            <rect height="4.96" width="7.98" x="322.23" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 327.9707 163.774)" class="st2 st3">R10E-055</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/054" pin-x="310.975" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/054_land" width="10.25" x="310.85" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/054_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 314.9175 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 312.8203 172.5846)" class="st2 st3">72A</text>
+            </g>
+            <rect height="4.96" width="7.98" x="311.98" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 317.6963 163.774)" class="st2 st3">R10E-054</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/053" pin-x="300.725" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/053_land" width="10.25" x="300.6" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/053_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 303.0645 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 303.7515 172.5846)" class="st2 st3">76</text>
+            </g>
+            <rect height="4.96" width="7.98" x="301.74" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 307.4219 163.774)" class="st2 st3">R10E-053</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/052" pin-x="290.485" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/052_land" width="10.25" x="290.36" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/052_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 294.4639 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 293.5044 172.5846)" class="st2 st3">78</text>
+            </g>
+            <rect height="4.96" width="7.98" x="291.49" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 297.1479 163.774)" class="st2 st3">R10E-052</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/051" pin-x="280.235" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/051_land" width="10.25" x="280.11" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/051_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 282.6108 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 283.2573 172.5846)" class="st2 st3">80</text>
+            </g>
+            <rect height="4.96" width="7.98" x="281.24" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 286.874 163.774)" class="st2 st3">R10E-051</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/050" pin-x="269.985" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/050_land" width="10.25" x="269.86" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/050_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 274.0103 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 273.0098 172.5846)" class="st2 st3">82</text>
+            </g>
+            <rect height="4.96" width="7.98" x="270.99" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 276.5996 163.774)" class="st2 st3">R10E-050</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/049" pin-x="259.735" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/049_land" width="10.25" x="259.61" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/049_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 262.1973 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 261.584 172.5846)" class="st2 st3">82A</text>
+            </g>
+            <rect height="4.96" width="7.98" x="260.75" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 266.3252 163.774)" class="st2 st3">R10E-049</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/048" pin-x="246.89499999999998" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/048_land" width="15.45" x="244.17" y="137.04" class="land st22"></rect>
+      <g id="BBR2_-_R10E/048_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 251.3384 142.8903)" class="st2 st3">E</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 250.3105 172.5846)" class="st2 st3">86</text>
+            </g>
+            <rect height="4.96" width="7.98" x="248.3" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 253.9346 163.774)" class="st2 st3">R10E-048</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/047" pin-x="220.69" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/047_land" width="17.08" x="217.15" y="137.04" class="land st22"></rect>
+      <g id="BBR2_-_R10E/047_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 223.1372 142.8903)" class="st2 st3">Em</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 223.7143 172.5846)" class="st2 st3">88</text>
+            </g>
+            <rect height="4.96" width="7.98" x="221.7" y="168.51" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 227.3389 163.774)" class="st2 st3">R10E-047</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/046" pin-x="206.98000000000002" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/046_land" width="10.36" x="206.8" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/046_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 210.7949 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 209.9985 172.5846)" class="st2 st3">90</text>
+               </g>
+               <rect height="4.96" width="7.98" x="207.98" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 213.6225 163.774)" class="st2 st3">R10E-046</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/045" pin-x="196.655" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/045_land" width="10.27" x="196.52" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/045_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 198.875 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 199.6841 172.5846)" class="st2 st3">92</text>
+               </g>
+               <rect height="4.96" width="7.98" x="197.67" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 203.3081 163.774)" class="st2 st3">R10E-045</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/044" pin-x="186.465" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/044_land" width="10.11" x="186.41" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/044_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 190.438 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 188.4634 172.5846)" class="st2 st3">92A</text>
+               </g>
+               <rect height="4.96" width="7.98" x="187.63" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 193.2656 163.774)" class="st2 st3">R10E-044</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/043" pin-x="176.35500000000002" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/043_land" width="10.11" x="176.3" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/043_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 178.5727 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 179.3818 172.5846)" class="st2 st3">96</text>
+               </g>
+               <rect height="4.96" width="7.98" x="177.37" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 183.0054 163.774)" class="st2 st3">R10E-043</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/042" pin-x="166.275" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/042_land" width="10.07" x="166.24" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/042_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 170.2578 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 169.4619 172.5846)" class="st2 st3">98</text>
+               </g>
+               <rect height="4.96" width="7.98" x="167.45" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 173.0859 163.774)" class="st2 st3">R10E-042</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/041" pin-x="156.06" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/041_land" width="10.36" x="155.88" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/041_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 158.4209 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 158.2422 172.5846)" class="st2 st3">100</text>
+               </g>
+               <rect height="4.96" width="7.98" x="157.21" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 162.8535 163.774)" class="st2 st3">R10E-041</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/040" pin-x="145.745" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/040_land" width="10.27" x="145.61" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/040_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 149.7949 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 148.0107 172.5846)" class="st2 st3">102</text>
+               </g>
+               <rect height="4.96" width="7.98" x="146.98" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 152.6221 163.774)" class="st2 st3">R10E-040</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/039" pin-x="135.555" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/039_land" width="10.11" x="135.5" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/039_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 137.958 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 137.4399 172.3141)" class="st2 st23">102A</text>
+               </g>
+               <rect height="4.96" width="7.98" x="136.75" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 142.3911 163.774)" class="st2 st3">R10E-039</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/038" pin-x="125.445" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/038_land" width="10.11" x="125.39" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/038_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 129.332 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 127.5483 172.5846)" class="st2 st3">106</text>
+               </g>
+               <rect height="4.96" width="7.98" x="126.52" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 132.1597 163.774)" class="st2 st3">R10E-038</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/037" pin-x="115.265" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/037_land" width="10.25" x="115.14" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/037_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 117.4951 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 117.3159 172.5846)" class="st2 st3">108</text>
+               </g>
+               <rect height="4.96" width="7.98" x="116.29" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 121.9272 163.774)" class="st2 st3">R10E-037</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/036" pin-x="104.97" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/036_land" width="10.36" x="104.79" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/036_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 108.8691 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 107.0845 172.5846)" class="st2 st3">110</text>
+               </g>
+               <rect height="4.96" width="7.98" x="106.06" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 111.6958 163.774)" class="st2 st3">R10E-036</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/035" pin-x="94.655" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/035_land" width="10.27" x="94.52" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/035_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 97.0322 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 96.8535 172.5846)" class="st2 st3">112</text>
+               </g>
+               <rect height="4.96" width="7.98" x="95.83" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 101.4643 163.774)" class="st2 st3">R10E-035</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/034" pin-x="84.45500000000001" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/034_land" width="10.11" x="84.4" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/034_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 88.4062 142.8903)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 85.4434 172.5846)" class="st2 st3">112A</text>
+               </g>
+               <rect height="4.96" width="7.98" x="85.59" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 91.2329 163.774)" class="st2 st3">R10E-034</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/033" pin-x="74.35499999999999" pin-y="127.03999999999999" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/033_land" width="10.11" x="74.3" y="137.04" class="land st21"></rect>
+      <g id="BBR2_-_R10E/033_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 76.5659 142.8903)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 76.3867 172.5846)" class="st2 st3">116</text>
+               </g>
+               <rect height="4.96" width="7.98" x="75.36" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 80.998 163.774)" class="st2 st3">R10E-033</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/032" pin-x="56.65" pin-y="127.03999999999999" class="unit open none">
+      <polygon id="BBR2_-_R10E/032_land" points="49,137.04 49,167.85 56.67,175.53 74.3,175.53 74.3,137.04  " class="land st19"></polygon>
+      <g id="BBR2_-_R10E/032_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 65.9365 142.8903)" class="st2 st3">C</text>
+         </g>
+         <g>
+            <g>
+               <g>
+                  <text transform="matrix(0.85 0 0 1 64.0903 172.5846)" class="st2 st3">118</text>
+               </g>
+               <rect height="4.96" width="7.98" x="63.06" y="168.51" class="st20"></rect>
+            </g>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 68.7021 163.774)" class="st2 st3">R10E-032</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/031" pin-x="56.65" pin-y="80.92" class="unit open none">
+      <polygon id="BBR2_-_R10E/031_land" points="56.67,90.92 49,98.61 49,129.42 74.3,129.42 74.3,90.92  " class="land st19"></polygon>
+      <g id="BBR2_-_R10E/031_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 64.3306 126.7906)" class="st2 st3">Cm</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 64.0903 96.7233)" class="st2 st3">117</text>
+            </g>
+            <rect height="4.96" width="7.98" x="63.06" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 68.7021 117.6862)" class="st2 st3">R10E-031</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/030" pin-x="74.35499999999999" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/030_land" width="10.11" x="74.3" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/030_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 78.1714 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 76.3867 96.7233)" class="st2 st3">115</text>
+            </g>
+            <rect height="4.96" width="7.98" x="75.36" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 80.998 117.6862)" class="st2 st3">R10E-030</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/029" pin-x="84.45500000000001" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/029_land" width="10.11" x="84.4" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/029_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 86.8003 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 86.6221 96.7233)" class="st2 st3">113</text>
+            </g>
+            <rect height="4.96" width="7.98" x="85.59" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 91.2329 117.6862)" class="st2 st3">R10E-029</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/028" pin-x="94.655" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/028_land" width="10.27" x="94.52" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/028_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 98.6377 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 96.8535 96.7233)" class="st2 st3">111</text>
+            </g>
+            <rect height="4.96" width="7.98" x="95.83" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 101.4643 117.6862)" class="st2 st3">R10E-028</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/027" pin-x="104.97" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/027_land" width="10.36" x="104.79" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/027_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 107.2632 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 107.0845 96.7233)" class="st2 st3">109</text>
+            </g>
+            <rect height="4.96" width="7.98" x="106.06" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 111.6958 117.6862)" class="st2 st3">R10E-027</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/026" pin-x="115.265" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/026_land" width="10.25" x="115.14" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/026_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 119.1001 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 117.3159 96.7233)" class="st2 st3">107</text>
+            </g>
+            <rect height="4.96" width="7.98" x="116.29" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 121.9272 117.6862)" class="st2 st3">R10E-026</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/025" pin-x="125.445" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/025_land" width="10.11" x="125.39" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/025_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 127.7266 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 127.5483 96.7233)" class="st2 st3">105</text>
+            </g>
+            <rect height="4.96" width="7.98" x="126.52" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 132.1597 117.6862)" class="st2 st3">R10E-025</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/024" pin-x="135.555" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/024_land" width="10.11" x="135.5" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/024_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 139.5639 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 137.7793 96.7233)" class="st2 st3">103</text>
+            </g>
+            <rect height="4.96" width="7.98" x="136.75" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 142.3911 117.6862)" class="st2 st3">R10E-024</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/023" pin-x="145.745" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/023_land" width="10.27" x="145.61" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/023_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 148.1889 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 148.0107 96.7233)" class="st2 st3">101</text>
+            </g>
+            <rect height="4.96" width="7.98" x="146.98" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 152.6221 117.6862)" class="st2 st3">R10E-023</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/022" pin-x="156.06" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/022_land" width="10.36" x="155.88" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/022_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 160.0264 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 159.2295 96.7233)" class="st2 st3">99</text>
+            </g>
+            <rect height="4.96" width="7.98" x="157.21" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 162.8535 117.6862)" class="st2 st3">R10E-022</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/021" pin-x="166.275" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/021_land" width="10.07" x="166.24" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/021_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 168.6528 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 169.4619 96.7233)" class="st2 st3">97</text>
+            </g>
+            <rect height="4.96" width="7.98" x="167.45" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 173.0859 117.6862)" class="st2 st3">R10E-021</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/020" pin-x="176.35500000000002" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/020_land" width="10.11" x="176.3" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/020_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 180.4902 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 179.6933 96.7233)" class="st2 st3">95</text>
+            </g>
+            <rect height="4.96" width="7.98" x="177.68" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 183.3169 117.6862)" class="st2 st3">R10E-020</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/019" pin-x="186.465" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/019_land" width="10.11" x="186.41" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/019_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 188.833 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 189.6416 96.7233)" class="st2 st3">93</text>
+            </g>
+            <rect height="4.96" width="7.98" x="187.63" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 193.2656 117.6862)" class="st2 st3">R10E-019</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/018" pin-x="196.655" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/018_land" width="10.27" x="196.52" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/018_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 200.4809 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 199.6841 96.7233)" class="st2 st3">91</text>
+            </g>
+            <rect height="4.96" width="7.98" x="197.67" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 203.3081 117.6862)" class="st2 st3">R10E-018</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/017" pin-x="206.98000000000002" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/017_land" width="10.36" x="206.8" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/017_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 209.7046 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 210.5137 96.7233)" class="st2 st3">89</text>
+            </g>
+            <rect height="4.96" width="7.98" x="208.5" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 214.1377 117.6862)" class="st2 st3">R10E-017</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/016" pin-x="220.69" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/016_land" width="17.08" x="217.15" y="90.92" class="land st22"></rect>
+      <g id="BBR2_-_R10E/016_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 224.7427 126.7906)" class="st2 st3">E</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 223.7143 96.7233)" class="st2 st3">87</text>
+            </g>
+            <rect height="4.96" width="7.98" x="221.7" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 227.3389 117.6862)" class="st2 st3">R10E-016</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/015" pin-x="246.89499999999998" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/015_land" width="15.45" x="244.17" y="90.92" class="land st22"></rect>
+      <g id="BBR2_-_R10E/015_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 249.7324 126.7906)" class="st2 st3">Em</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 250.3105 96.7233)" class="st2 st3">85</text>
+            </g>
+            <rect height="4.96" width="7.98" x="248.3" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 253.9346 117.6862)" class="st2 st3">R10E-015</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/014" pin-x="259.735" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/014_land" width="10.25" x="259.61" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/014_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 263.8032 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 262.7622 96.7233)" class="st2 st3">83</text>
+            </g>
+            <rect height="4.96" width="7.98" x="260.75" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 266.3252 117.6862)" class="st2 st3">R10E-014</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/013" pin-x="269.985" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/013_land" width="10.25" x="269.86" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/013_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 272.4043 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 273.0098 96.7233)" class="st2 st3">81</text>
+            </g>
+            <rect height="4.96" width="7.98" x="270.99" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 276.5996 117.6862)" class="st2 st3">R10E-013</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/012" pin-x="280.235" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/012_land" width="10.25" x="280.11" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/012_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 284.2573 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 283.2573 96.7233)" class="st2 st3">79</text>
+            </g>
+            <rect height="4.96" width="7.98" x="281.24" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 286.874 117.6862)" class="st2 st3">R10E-012</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/011" pin-x="290.485" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/011_land" width="10.25" x="290.36" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/011_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 292.8579 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 293.5044 96.7233)" class="st2 st3">77</text>
+            </g>
+            <rect height="4.96" width="7.98" x="291.49" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 297.1479 117.6862)" class="st2 st3">R10E-011</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/010" pin-x="300.725" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/010_land" width="10.25" x="300.6" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/010_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 304.7109 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 303.7515 96.7233)" class="st2 st3">75</text>
+            </g>
+            <rect height="4.96" width="7.98" x="301.74" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 307.4219 117.6862)" class="st2 st3">R10E-010</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/009" pin-x="310.975" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/009_land" width="10.25" x="310.85" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/009_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 313.3115 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 313.9985 96.7233)" class="st2 st3">73</text>
+            </g>
+            <rect height="4.96" width="7.98" x="311.98" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 317.6963 117.6862)" class="st2 st3">R10E-009</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/008" pin-x="321.225" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/008_land" width="10.25" x="321.1" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/008_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 325.165 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 324.2461 96.7233)" class="st2 st3">71</text>
+            </g>
+            <rect height="4.96" width="7.98" x="322.23" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 327.9707 117.6862)" class="st2 st3">R10E-008</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/007" pin-x="331.475" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/007_land" width="10.25" x="331.35" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/007_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 333.7656 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 334.4932 96.7233)" class="st2 st3">69</text>
+            </g>
+            <rect height="4.96" width="7.98" x="332.48" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 338.2451 117.6862)" class="st2 st3">R10E-007</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/006" pin-x="341.715" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/006_land" width="10.25" x="341.59" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/006_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 345.6191 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 344.7407 96.7233)" class="st2 st3">67</text>
+            </g>
+            <rect height="4.96" width="7.98" x="342.73" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 348.519 117.6862)" class="st2 st3">R10E-006</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/005" pin-x="351.965" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/005_land" width="10.25" x="351.84" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/005_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 354.2197 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 354.9878 96.7233)" class="st2 st3">65</text>
+            </g>
+            <rect height="4.96" width="7.98" x="352.97" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 358.7935 117.6862)" class="st2 st3">R10E-005</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/004" pin-x="362.215" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/004_land" width="10.25" x="362.09" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/004_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 366.0728 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 365.2349 96.7233)" class="st2 st3">63</text>
+            </g>
+            <rect height="4.96" width="7.98" x="363.22" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 368.7441 117.6862)" class="st2 st3">R10E-004</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/003" pin-x="372.455" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/003_land" width="10.25" x="372.33" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/003_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 374.6733 126.7906)" class="st2 st3">Am</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 375.4824 96.7233)" class="st2 st3">61</text>
+            </g>
+            <rect height="4.96" width="7.98" x="373.47" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 379.0996 117.6862)" class="st2 st3">R10E-003</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/002" pin-x="382.705" pin-y="80.92" class="unit open none">
+      <rect height="38.5" id="BBR2_-_R10E/002_land" width="10.25" x="382.58" y="90.92" class="land st21"></rect>
+      <g id="BBR2_-_R10E/002_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 386.5264 126.7906)" class="st2 st3">A</text>
+         </g>
+         <g>
+            <g>
+               <text transform="matrix(0.85 0 0 1 385.7295 96.7233)" class="st2 st3">59</text>
+            </g>
+            <rect height="4.96" width="7.98" x="383.71" y="92.65" class="st20"></rect>
+         </g>
+         <text transform="matrix(0 -0.85 1 0 389.4541 117.6862)" class="st2 st3">R10E-002</text>
+      </g>
+   </g>
+   <g id="BBR2_-_R10E/001" pin-x="399.66999999999996" pin-y="80.92" class="unit open none">
+      <polygon id="BBR2_-_R10E/001_land" points="408.84,90.92 416.51,98.61 416.51,129.42 392.83,129.42 392.83,90.92  " class="land st19"></polygon>
+      <g id="BBR2_-_R10E/001_text">
+         <g>
+            <text transform="matrix(0.85 0 0 1 400.1904 96.8444)" class="st2 st3">57</text>
+         </g>
+         <g>
+            <text transform="matrix(0.85 0 0 1 401.0493 126.7906)" class="st2 st3">C</text>
+         </g>
+         <rect height="4.96" width="7.98" x="398.18" y="92.65" class="st20"></rect>
+         <text transform="matrix(0 -0.85 1 0 403.7607 117.6862)" class="st2 st3">R10E-001</text>
+      </g>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/118_pin" transform="matrix(0.7 0 0 0.7 764.315 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/117_pin" transform="matrix(0.7 0 0 0.7 747.535 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/116_pin" transform="matrix(0.7 0 0 0.7 737.285 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/115_pin" transform="matrix(0.7 0 0 0.7 727.035 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/114_pin" transform="matrix(0.7 0 0 0.7 716.795 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/113_pin" transform="matrix(0.7 0 0 0.7 706.545 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/112_pin" transform="matrix(0.7 0 0 0.7 696.295 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/111_pin" transform="matrix(0.7 0 0 0.7 686.045 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/110_pin" transform="matrix(0.7 0 0 0.7 675.805 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/109_pin" transform="matrix(0.7 0 0 0.7 665.555 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/108_pin" transform="matrix(0.7 0 0 0.7 655.305 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/107_pin" transform="matrix(0.7 0 0 0.7 645.065 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/106_pin" transform="matrix(0.7 0 0 0.7 634.815 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/105_pin" transform="matrix(0.7 0 0 0.7 624.565 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/104_pin" transform="matrix(0.7 0 0 0.7 610.835 127.09)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/103_pin" transform="matrix(0.7 0 0 0.7 583.53 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/102_pin" transform="matrix(0.7 0 0 0.7 569.645 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/101_pin" transform="matrix(0.7 0 0 0.7 559.415 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/100_pin" transform="matrix(0.7 0 0 0.7 549.1850000000001 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/099_pin" transform="matrix(0.7 0 0 0.7 538.955 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/098_pin" transform="matrix(0.7 0 0 0.7 528.715 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/097_pin" transform="matrix(0.7 0 0 0.7 518.485 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/096_pin" transform="matrix(0.7 0 0 0.7 508.255 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/095_pin" transform="matrix(0.7 0 0 0.7 498.02500000000003 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/094_pin" transform="matrix(0.7 0 0 0.7 487.795 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/093_pin" transform="matrix(0.7 0 0 0.7 477.565 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/092_pin" transform="matrix(0.7 0 0 0.7 467.325 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/091_pin" transform="matrix(0.7 0 0 0.7 449.485 127.12)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/090_pin" transform="matrix(0.7 0 0 0.7 449.485 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/089_pin" transform="matrix(0.7 0 0 0.7 467.325 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/088_pin" transform="matrix(0.7 0 0 0.7 477.565 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/087_pin" transform="matrix(0.7 0 0 0.7 487.795 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/086_pin" transform="matrix(0.7 0 0 0.7 498.02500000000003 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/085_pin" transform="matrix(0.7 0 0 0.7 508.255 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/084_pin" transform="matrix(0.7 0 0 0.7 518.485 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/083_pin" transform="matrix(0.7 0 0 0.7 528.715 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/082_pin" transform="matrix(0.7 0 0 0.7 538.955 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/081_pin" transform="matrix(0.7 0 0 0.7 549.1850000000001 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/080_pin" transform="matrix(0.7 0 0 0.7 559.415 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/079_pin" transform="matrix(0.7 0 0 0.7 569.645 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/078_pin" transform="matrix(0.7 0 0 0.7 583.53 80.97)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/077_pin" transform="matrix(0.7 0 0 0.7 610.835 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/076_pin" transform="matrix(0.7 0 0 0.7 624.565 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/075_pin" transform="matrix(0.7 0 0 0.7 634.815 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/074_pin" transform="matrix(0.7 0 0 0.7 645.065 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/073_pin" transform="matrix(0.7 0 0 0.7 655.305 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/072_pin" transform="matrix(0.7 0 0 0.7 665.555 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/071_pin" transform="matrix(0.7 0 0 0.7 675.805 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/070_pin" transform="matrix(0.7 0 0 0.7 686.045 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/069_pin" transform="matrix(0.7 0 0 0.7 696.295 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/068_pin" transform="matrix(0.7 0 0 0.7 706.545 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/067_pin" transform="matrix(0.7 0 0 0.7 716.795 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/066_pin" transform="matrix(0.7 0 0 0.7 727.035 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/065_pin" transform="matrix(0.7 0 0 0.7 737.285 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/064_pin" transform="matrix(0.7 0 0 0.7 747.535 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/063_pin" transform="matrix(0.7 0 0 0.7 764.315 81.0)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/062_pin" transform="matrix(0.7 0 0 0.7 399.66999999999996 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/061_pin" transform="matrix(0.7 0 0 0.7 382.705 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/060_pin" transform="matrix(0.7 0 0 0.7 372.455 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/059_pin" transform="matrix(0.7 0 0 0.7 362.215 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/058_pin" transform="matrix(0.7 0 0 0.7 351.965 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/057_pin" transform="matrix(0.7 0 0 0.7 341.715 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/056_pin" transform="matrix(0.7 0 0 0.7 331.475 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/055_pin" transform="matrix(0.7 0 0 0.7 321.225 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/054_pin" transform="matrix(0.7 0 0 0.7 310.975 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/053_pin" transform="matrix(0.7 0 0 0.7 300.725 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/052_pin" transform="matrix(0.7 0 0 0.7 290.485 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/051_pin" transform="matrix(0.7 0 0 0.7 280.235 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/050_pin" transform="matrix(0.7 0 0 0.7 269.985 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/049_pin" transform="matrix(0.7 0 0 0.7 259.735 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/048_pin" transform="matrix(0.7 0 0 0.7 246.89499999999998 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/047_pin" transform="matrix(0.7 0 0 0.7 220.69 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/046_pin" transform="matrix(0.7 0 0 0.7 206.98000000000002 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/045_pin" transform="matrix(0.7 0 0 0.7 196.655 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/044_pin" transform="matrix(0.7 0 0 0.7 186.465 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/043_pin" transform="matrix(0.7 0 0 0.7 176.35500000000002 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/042_pin" transform="matrix(0.7 0 0 0.7 166.275 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/041_pin" transform="matrix(0.7 0 0 0.7 156.06 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/040_pin" transform="matrix(0.7 0 0 0.7 145.745 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/039_pin" transform="matrix(0.7 0 0 0.7 135.555 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/038_pin" transform="matrix(0.7 0 0 0.7 125.445 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/037_pin" transform="matrix(0.7 0 0 0.7 115.265 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/036_pin" transform="matrix(0.7 0 0 0.7 104.97 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/035_pin" transform="matrix(0.7 0 0 0.7 94.655 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/034_pin" transform="matrix(0.7 0 0 0.7 84.45500000000001 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/033_pin" transform="matrix(0.7 0 0 0.7 74.35499999999999 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/032_pin" transform="matrix(0.7 0 0 0.7 56.65 127.03999999999999)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/031_pin" transform="matrix(0.7 0 0 0.7 56.65 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/030_pin" transform="matrix(0.7 0 0 0.7 74.35499999999999 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/029_pin" transform="matrix(0.7 0 0 0.7 84.45500000000001 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/028_pin" transform="matrix(0.7 0 0 0.7 94.655 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/027_pin" transform="matrix(0.7 0 0 0.7 104.97 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/026_pin" transform="matrix(0.7 0 0 0.7 115.265 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/025_pin" transform="matrix(0.7 0 0 0.7 125.445 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/024_pin" transform="matrix(0.7 0 0 0.7 135.555 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/023_pin" transform="matrix(0.7 0 0 0.7 145.745 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/022_pin" transform="matrix(0.7 0 0 0.7 156.06 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/021_pin" transform="matrix(0.7 0 0 0.7 166.275 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/020_pin" transform="matrix(0.7 0 0 0.7 176.35500000000002 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/019_pin" transform="matrix(0.7 0 0 0.7 186.465 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/018_pin" transform="matrix(0.7 0 0 0.7 196.655 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/017_pin" transform="matrix(0.7 0 0 0.7 206.98000000000002 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/016_pin" transform="matrix(0.7 0 0 0.7 220.69 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/015_pin" transform="matrix(0.7 0 0 0.7 246.89499999999998 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/014_pin" transform="matrix(0.7 0 0 0.7 259.735 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/013_pin" transform="matrix(0.7 0 0 0.7 269.985 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/012_pin" transform="matrix(0.7 0 0 0.7 280.235 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/011_pin" transform="matrix(0.7 0 0 0.7 290.485 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/010_pin" transform="matrix(0.7 0 0 0.7 300.725 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/009_pin" transform="matrix(0.7 0 0 0.7 310.975 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/008_pin" transform="matrix(0.7 0 0 0.7 321.225 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/007_pin" transform="matrix(0.7 0 0 0.7 331.475 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/006_pin" transform="matrix(0.7 0 0 0.7 341.715 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/005_pin" transform="matrix(0.7 0 0 0.7 351.965 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/004_pin" transform="matrix(0.7 0 0 0.7 362.215 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/003_pin" transform="matrix(0.7 0 0 0.7 372.455 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/002_pin" transform="matrix(0.7 0 0 0.7 382.705 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+   <g fill-rule="nonzero" id="BBR2_-_R10E/001_pin" transform="matrix(0.7 0 0 0.7 399.66999999999996 80.92)" class="pin">
+      <path d="M6.94981132,0 C3.11777358,0 0,3.12146636 0,6.95816406 C0,7.91013062 0.189132075,8.83326574 0.563169811,9.70455717 C0.623132075,9.8434242 0.687320755,9.97911714 0.753358491,10.1092554 L6.94981132,23.245283 L13.0873585,10.2224651 C13.618566,9.22341597 13.8993585,8.09475763 13.8993585,6.95816406 C13.8996226,3.12120184 10.7818491,0 6.94981132,0 Z" fill="#ED3435" fill-opacity="0.9" stroke="#D9330A"></path>
+      <path d="M6.99990749,3.16981132 C5.17924873,3.16981132 3.69811321,4.65090534 3.69811321,6.4715131 C3.69811321,8.29230587 5.17924873,9.77358491 6.99990749,9.77358491 C8.82056626,9.77358491 10.3018868,8.29230587 10.3018868,6.4715131 C10.3018868,4.65109035 8.82056626,3.16981132 6.99990749,3.16981132 Z" fill="#000000" fill-opacity="0.6"></path>
+   </g>
+</svg>
