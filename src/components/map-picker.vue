@@ -2,9 +2,8 @@
     <div :class="['surface-0 h-full w-full sdp-canvas-base flex flex-column align-items-center justify-content-center border-1 border-300 border-round', {
         'active-mode': (keybind != null)
     }]">
-        <div
-            ref="base"
-            class="flex-1 h-full w-full">
+        <div class="flex-1 h-full w-full">
+            <div ref="base" class="h-full w-full"></div>
         </div>
 
         <div
@@ -266,7 +265,10 @@ export default {
         }, 300)
     },
     mounted: function(){
+        const { base } = this.$refs;
 
+        console.clear();
+        console.log(base.parentNode.parentElement.clientHeight);
     }
 }
 </script>
