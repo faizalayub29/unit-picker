@@ -2,8 +2,8 @@
     <div :class="['surface-0 h-full w-full sdp-canvas-base flex flex-column align-items-center justify-content-center border-1 border-300 border-round', {
         'active-mode': (keybind != null)
     }]">
-        <div class="flex-1 h-full w-full">
-            <div ref="base" class="h-full w-full"></div>
+        <div ref="wrapper" class="flex-1 h-full w-full overflow-hidden surface-100 border-round-top">
+            <div ref="base" class="h-full w-full transition-all transition-duration-100 transition-linear content-map"></div>
         </div>
 
         <div
@@ -26,6 +26,12 @@ import { debounce } from 'lodash';
 export default {
     name: 'MapPicker',
     emits: ['change'],
+    props: {
+        moveable: {
+            type: Boolean,
+            default: true
+        }  
+    },
     data: () => ({
         mode: null,
         instance: null,
@@ -33,6 +39,10 @@ export default {
         shapeinvolve: ['rect', 'circle', 'ellipse', 'line', 'path', 'polygon', 'polyline', 'text', 'image'],
         selectionEl: null,
         keybind: null,
+
+        scale: 1,
+        offsetX: 0,
+        offsetY: 0,
     }),
     computed: {
         keyboardKey: function(){
@@ -65,11 +75,15 @@ export default {
                 return ['drag', 'click'];
             }
 
+            if(this.moveable){
+                return ['drag-position']
+            }
+
             return [];
         }
     },
     methods: {
-        loader: async function(filepath = null){
+        doSvg: async function(filepath = null){
             try{
                 const { base } = this.$refs;
                 const response = await fetch(filepath);
@@ -98,6 +112,26 @@ export default {
             }catch(e){
                 return e;
             }
+        },
+        doScale: function(direction = 'plus'){
+            const { base } = this.$refs;
+            const { height, width } = base.getBoundingClientRect();
+
+            base.parentNode.style.height = `${ height }px`;
+            base.parentNode.style.width = `${ width }px`;
+
+            switch(direction){
+                case 'plus':
+                    this.scale += 0.4;
+                break;
+                case 'minus':
+                    this.scale += -0.5;
+                break;
+            }
+            
+            this.scale = Math.min(Math.max(0.8, this.scale), 4);
+
+            base.style.transform = `scale(${this.scale})`;
         },
         install: async function(){
             try{
@@ -181,25 +215,37 @@ export default {
             }
         },
         onSelectionMove: function(event){
-            if(!this.activeEvent.includes('drag')) return;
-
+            const { base } = this.$refs;
             const selection = this.selectionEl;
 
-            const [x = 0, y = 0] = d3.pointer(event, this.instance.node());
+            if(this.activeEvent.includes('drag')){
+                const [x = 0, y = 0] = d3.pointer(event, this.instance.node());
 
-            const startX = parseFloat(selection.attr('x'));
-            const startY = parseFloat(selection.attr('y'));
+                const startX = parseFloat(selection.attr('x'));
+                const startY = parseFloat(selection.attr('y'));
 
-            const width = x - startX;
-            const height = y - startY;
+                const width = (x - startX);
+                const height = (y - startY);
 
-            selection.attr('width', Math.abs(width));
-            selection.attr('height', Math.abs(height));
+                selection.attr('width', Math.abs(width));
+                selection.attr('height', Math.abs(height));
 
-            selection.attr('x', (width < 0) ? x : startX);
-            selection.attr('y', (height < 0) ? y : startY);
+                selection.attr('x', (width < 0) ? x : startX);
+                selection.attr('y', (height < 0) ? y : startY);
 
-            this.emphasizeUnit();
+                this.emphasizeUnit();
+            }
+
+            if(this.activeEvent.includes('drag-position')){
+                const baseEl = d3.select(base);
+                const [deltaX, deltaY] = [event.dx, event.dy];
+                const scale = 0.5;
+
+                this.offsetX += deltaX / scale;
+                this.offsetY += deltaY / scale;
+
+                baseEl.style('transform', `scale(${this.scale}) translate(${this.offsetX}px, ${this.offsetY}px)`);
+            }
         },
         emphasizeUnit: function(){
             const self = this;
@@ -265,10 +311,7 @@ export default {
         }, 300)
     },
     mounted: function(){
-        const { base } = this.$refs;
 
-        console.clear();
-        console.log(base.parentNode.parentElement.clientHeight);
     }
 }
 </script>

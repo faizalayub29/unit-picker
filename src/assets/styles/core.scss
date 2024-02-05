@@ -74,3 +74,9 @@ body {
         display: none !important;
     }
 }
+
+.content-moveable{
+    .content-map{
+        cursor: move;
+    }
+}
