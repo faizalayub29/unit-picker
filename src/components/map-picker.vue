@@ -164,7 +164,7 @@ export default {
 
                 //# Clear Model
                 this.collection.splice(0, this.collection.length);
-                this.updateModel([]);
+                this.updateModel(clone(this.collection));
 
                 //# Final
                 base.innerHTML = styleSwiper;
@@ -256,7 +256,7 @@ export default {
                 }
             }
         },
-        onSelectionStart: function(event){
+        onSelectionStart: function(){
             if(!this.activeEvent.includes('drag')) return;
 
             const [pointerX = 0, pointerY = 0] = d3.pointer(event, this.instance.node());
