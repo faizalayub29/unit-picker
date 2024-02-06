@@ -249,10 +249,14 @@ export default {
                 selection.attr('width', Math.abs(width));
                 selection.attr('height', Math.abs(height));
 
-                selection.attr('x', (width < 0) ? x : startX);
-                selection.attr('y', (height < 0) ? y : startY);
+                selection.attr('x', (width < 0 ? x : startX));
+                selection.attr('y', (height < 0 ? y : startY));
 
-                this.emphasizeUnit();
+                const selectionSize = selection.node().getBoundingClientRect();
+
+                if((selectionSize.width * selectionSize.height) > 50){
+                    this.emphasizeUnit();
+                }
             }
 
             if(this.activeEvent.includes('drag-position')){
