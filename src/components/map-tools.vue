@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full flex align-items-center justify-content-end gap-3 py-1 px-2 surface-0 border-round">
+    <div class="w-full flex align-items-center justify-content-end gap-3 py-1 px-2 surface-0 border-round-top">
         <!-- Selection Tools -->
         <span class="flex gap-2 align-items-center">
             <span @click="useReset" class="pi pi-refresh surface-200 flex align-items-center justify-content-center tool-button-size border-round border-1 border-300 text-600 hover:text-blue-500 hover:border-blue-300 cursor-pointer"></span>

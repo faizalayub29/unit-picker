@@ -36,7 +36,7 @@ export default {
     },
     mounted: async function(){
         await helper.sleep(400);
-        this.onChoose({ value: this.dataset[3] });
+        this.onChoose({ value: this.dataset[0] });
     }
 }
 </script>

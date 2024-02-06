@@ -1,10 +1,5 @@
 <template>
-    <div
-        :class="['relative surface-100 h-full w-full sdp-canvas-base flex flex-column align-items-center justify-content-center border-1 border-300 border-round', {
-            'active-mode': keyboardKey.id,
-            'content-moveable': moveable
-        }]">
-
+    <div :style="containerStyle" :class="containerClass">
         <!-- Action Tools -->
         <map-tools
             @select-project="doSvg"
@@ -48,7 +43,8 @@ export default {
     name: 'MapPicker',
     emits: ['change'],
     props: {
-
+        class: null,
+        style: null
     },
     data: () => ({
         instance: null,
@@ -98,7 +94,16 @@ export default {
             }
 
             return [];
-        }
+        },
+        containerClass: function(){
+            return ['relative surface-100 h-full w-full sdp-canvas-base flex flex-column align-items-center justify-content-center border-1 border-300 border-round', {
+                'active-mode': this.keyboardKey.id,
+                'content-moveable': this.moveable
+            }, this.class];
+        },
+        containerStyle: function(){
+            return [this.style];
+        },
     },
     methods: {
         doSvg: async function(filepath = null){
