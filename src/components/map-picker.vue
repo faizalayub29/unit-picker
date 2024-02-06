@@ -31,20 +31,29 @@
             }">
         </div>
     </div>
+
+    <ol class="flex m-0 list-none p-0 flex-wrap">
+        <li v-for="(data, index) in collection" :key="index" class="pr-3">{{ data }}</li>
+    </ol>
 </template>
 
 <script>
 import * as d3 from 'd3';
 import * as helper from '../utils';
 import * as KeyCode from 'keycode-js';
-import { debounce } from 'lodash';
+import { union, clone, debounce } from 'lodash';
+import { DomHandler } from 'primevue/utils';
 
 export default {
     name: 'MapPicker',
-    emits: ['change'],
+    emits: ['update:modelValue', 'change'],
     props: {
         class: null,
-        style: null
+        style: null,
+        modelValue: {
+            type: Array,
+            default: []
+        }
     },
     data: () => ({
         instance: null,
@@ -58,6 +67,35 @@ export default {
         offsetX: 0,
         offsetY: 10,
     }),
+    watch: {
+        modelValue: {
+            deep: true,
+            immediate: true,
+            handler: function(data){
+                //# External -> Internal
+                const { base } = this.$refs;
+                const coming = clone(data);
+                const current = clone(this.collection);
+                const finalCollect = union(current, coming);
+
+                this.collection.splice(0, this.collection.length);
+
+                finalCollect.forEach(e => {
+                    const parentEl = DomHandler.findSingle(base, `[id="${ e }"]`);
+
+                    if(parentEl){
+                        const shapeunit = DomHandler.findSingle(parentEl, this.shapeinvolve.join(','));
+
+                        if(shapeunit){
+                            DomHandler.addClass(shapeunit, 'highlighted');
+                        }
+                    }
+
+                    this.collection.push(e);
+                });
+            }
+        }
+    },
     computed: {
         keyboardKey: function(){
             const key = (this.keybind);
@@ -124,6 +162,10 @@ export default {
 
                 styleSwiper = new XMLSerializer().serializeToString(parsedSVG);
 
+                //# Clear Model
+                this.collection.splice(0, this.collection.length);
+                this.updateModel([]);
+
                 //# Final
                 base.innerHTML = styleSwiper;
 
@@ -169,7 +211,7 @@ export default {
         install: async function(){
             try{
                 const { wrapper, base } = this.$refs;
-                const target = base.querySelector('svg');
+                const target = DomHandler.findSingle(base, 'svg');
                 const svg = d3.select(target);
 
                 svg.call(d3.drag()
@@ -193,14 +235,12 @@ export default {
             e.preventDefault();
 
             const self = this;
-            const shapeTocheck = this.shapeinvolve;
-
             const eventPath = (e.path || (e.composedPath && e.composedPath()));
             const parentEl = eventPath.find(c => c.classList && c.classList.contains('unit'));
             const keycontrol = (self.keyboardKey.id);
 
             if(parentEl){
-                const shapeunit = parentEl.querySelector(shapeTocheck.join(','));
+                const shapeunit = DomHandler.findSingle(parentEl, this.shapeinvolve.join(','));
 
                 if(shapeunit){
                     const selector = (d3.select(shapeunit));
@@ -284,7 +324,7 @@ export default {
 
             selectableElements.each(function(){
                 const parentEl = this;
-                const element = d3.select(parentEl.querySelector(shapeTocheck));
+                const element = d3.select(DomHandler.findSingle(parentEl, shapeTocheck));
                 
                 if(!selection || !selection.node || !element || !element.node) return;
 
@@ -298,10 +338,8 @@ export default {
                     });
                 }
             });
-
-            this.dispatch('change', [...self.collection]);
         },
-        highlighter: function ({ node = null, checked = false, swip = true }){
+        highlighter: async function ({ node = null, checked = false, swip = true }){
             const parent = node.select(function(){ return this.closest(".unit") });
 
             if(parent.size() > 0){
@@ -332,10 +370,15 @@ export default {
                         performUnChecked();
                     break;
                 }
+
+                await this.$nextTick();
+
+                this.updateModel(clone(this.collection));
             }
         },
-        dispatch: debounce(function(e, value){
-            this.$emit(e, value);
+        updateModel: debounce(function(value){
+            //# Internal -> External
+            this.$emit('update:modelValue', value);
         }, 300)
     },
     mounted: function(){
