@@ -1,11 +1,32 @@
 <template>
-    <div :class="['surface-0 h-full w-full sdp-canvas-base flex flex-column align-items-center justify-content-center border-1 border-300 border-round', {
-        'active-mode': (keybind != null)
-    }]">
-        <div ref="wrapper" class="flex-1 h-full w-full overflow-hidden surface-100 border-round-top">
-            <div ref="base" class="h-full w-full transition-all transition-duration-100 transition-linear content-map"></div>
+    <div
+        :class="['relative surface-100 h-full w-full sdp-canvas-base flex flex-column align-items-center justify-content-center border-1 border-300 border-round', {
+            'active-mode': keyboardKey.id,
+            'content-moveable': moveable
+        }]">
+
+        <!-- Action Tools -->
+        <map-tools
+            @select-project="doSvg"
+            @tool-move="((e) => moveable = e)"
+            @tool-zoom="doZoom"
+            @tool-reset="doReset">
+        </map-tools>
+
+        <!-- Map Body -->
+        <div ref="wrapper" class="flex-1 h-screen w-full overflow-hidden">
+            <div
+                ref="base"
+                :class="['h-full w-full transition-all transition-duration-100 transition-linear content-map', {
+                    'shadow-3 border-1 border-orange-400': moveable
+                }]"
+                :style="{
+                    transform: `scale(${ scale }) translate(${ offsetX }px, ${ offsetY }px)`
+                }">
+            </div>
         </div>
 
+        <!-- Footer Info -->
         <div
             v-html="(keyboardKey.message ? keyboardKey.message : '')"
             class="text-right w-full text-600 px-3 line-height-3"
@@ -27,22 +48,19 @@ export default {
     name: 'MapPicker',
     emits: ['change'],
     props: {
-        moveable: {
-            type: Boolean,
-            default: true
-        }  
+
     },
     data: () => ({
-        mode: null,
         instance: null,
         collection: [],
         shapeinvolve: ['rect', 'circle', 'ellipse', 'line', 'path', 'polygon', 'polyline', 'text', 'image'],
         selectionEl: null,
         keybind: null,
+        moveable: false,
 
-        scale: 1,
+        scale: 0.98,
         offsetX: 0,
-        offsetY: 0,
+        offsetY: 10,
     }),
     computed: {
         keyboardKey: function(){
@@ -113,7 +131,7 @@ export default {
                 return e;
             }
         },
-        doScale: function(direction = 'plus'){
+        doZoom: function(direction = 1){
             const { base } = this.$refs;
             const { height, width } = base.getBoundingClientRect();
 
@@ -121,21 +139,31 @@ export default {
             base.parentNode.style.width = `${ width }px`;
 
             switch(direction){
-                case 'plus':
-                    this.scale += 0.4;
+                case 1:
+                    this.scale += 0.15;
                 break;
-                case 'minus':
-                    this.scale += -0.5;
+                case -1:
+                    this.scale += -0.1;
                 break;
             }
             
-            this.scale = Math.min(Math.max(0.8, this.scale), 4);
+            this.scale = Math.min(Math.max(0.2, this.scale), 4);
 
             base.style.transform = `scale(${this.scale})`;
         },
+        doReset: function(){
+            const { base } = this.$refs;
+            const baseEl = d3.select(base);
+
+            this.scale = 0.98;
+            this.offsetX = 0;
+            this.offsetY = 0;
+
+            baseEl.style('transform', `scale(${ this.scale }) translate(${ this.offsetX }px, ${ this.offsetY }px)`);
+        },
         install: async function(){
             try{
-                const { base } = this.$refs;
+                const { wrapper, base } = this.$refs;
                 const target = base.querySelector('svg');
                 const svg = d3.select(target);
 
@@ -151,16 +179,7 @@ export default {
 
                 svg.on("click", this.onClick);
 
-                window.addEventListener('keydown', ({ code }) => {
-                    this.keybind = code;
-                });
-
-                window.addEventListener('keyup', (event) => {
-                    this.keybind = null;
-                });
-
                 this.instance = svg;
-
             }catch(e){
                 console.error(e);
             }
@@ -311,7 +330,13 @@ export default {
         }, 300)
     },
     mounted: function(){
+        window.addEventListener('keydown', ({ code }) => {
+            this.keybind = code;
+        });
 
+        window.addEventListener('keyup', (event) => {
+            this.keybind = null;
+        });
     }
 }
 </script>

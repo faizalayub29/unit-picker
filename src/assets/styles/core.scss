@@ -17,6 +17,12 @@ body {
 	overflow-y: auto;
 }
 
+.bg-glass {
+    backdrop-filter: blur(8px) saturate(180%);
+    -webkit-backdrop-filter: blur(8px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
 .sdp-canvas-base{
     height: 100%;
     width: 100%;
@@ -33,7 +39,6 @@ body {
 
     svg{
         background: var(--surface-0);
-        border-radius: var(--border-radius);
     }
 
     .unit-selector{

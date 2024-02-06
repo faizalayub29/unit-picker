@@ -19,6 +19,7 @@ import SelectButton from 'primevue/selectbutton';
 
 import SelectProject from './components/select-project.vue';
 import MapPicker from './components/map-picker.vue';
+import MapTools from './components/map-tools.vue';
 
 const app = createApp(App);
 
@@ -28,6 +29,7 @@ app.use(ToastService);
 
 app.component('select-project', SelectProject);
 app.component('map-picker', MapPicker);
+app.component('map-tools', MapTools);
 app.component('Dropdown', Dropdown);
 app.component('Card', Card);
 app.component('Menu', Menu);

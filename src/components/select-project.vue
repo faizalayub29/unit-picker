@@ -26,6 +26,7 @@ export default {
             { id: 918, name: 'Hype Residence', path: '../src/assets/svg/hype_residence.svg' },
             { id: 98, name: 'Serasi Shops (HT6T1B)', path: '../src/assets/svg/serasi_shops.svg' },
             { id: 21, name: 'Casira 3 (Siri 3) (BBR2 - R10E)', path: '../src/assets/svg/casira_3.svg' },
+            { id: 31, name: 'Nadira (Phase 1) (BBR2 - R1A2)', path: '../src/assets/svg/nadira_1.svg' },
         ]
     }),
     methods: {
@@ -35,7 +36,7 @@ export default {
     },
     mounted: async function(){
         await helper.sleep(400);
-        this.onChoose({ value: this.dataset[0] });
+        this.onChoose({ value: this.dataset[3] });
     }
 }
 </script>
