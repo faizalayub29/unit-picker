@@ -23,12 +23,12 @@ export default {
     data: () => ({
         selected: null,
         dataset: [
-            { id: 918, name: 'Hype Residence', path: '../src/assets/svg/hype_residence.svg' },
-            { id: 98, name: 'Serasi Shops (HT6T1B)', path: '../src/assets/svg/serasi_shops.svg' },
-            { id: 21, name: 'Casira 3 (Siri 3) (BBR2 - R10E)', path: '../src/assets/svg/casira_3.svg' },
-            { id: 31, name: 'Nadira (Phase 1) (BBR2 - R1A2)', path: '../src/assets/svg/nadira_1.svg' },
-            { id: 32, name: 'Serenia Industrial Park Phase 3 (SC - CU-1(b))', path: '../src/assets/svg/serenia_industrial.svg' },
-            { id: 33, name: 'Serenia Anisa (Stage 3) (SC-A10 - 3)', path: '../src/assets/svg/serenia_anisa.svg' },
+            { id: 918, name: 'Hype Residence', path: 'hype_residence.svg' },
+            { id: 98, name: 'Serasi Shops (HT6T1B)', path: 'serasi_shops.svg' },
+            { id: 21, name: 'Casira 3 (Siri 3) (BBR2 - R10E)', path: 'casira_3.svg' },
+            { id: 31, name: 'Nadira (Phase 1) (BBR2 - R1A2)', path: 'nadira_1.svg' },
+            { id: 32, name: 'Serenia Industrial Park Phase 3 (SC - CU-1(b))', path: 'serenia_industrial.svg' },
+            { id: 33, name: 'Serenia Anisa (Stage 3) (SC-A10 - 3)', path: 'serenia_anisa.svg' },
         ]
     }),
     methods: {

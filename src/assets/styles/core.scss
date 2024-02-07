@@ -41,6 +41,10 @@ body {
         background: var(--surface-0);
         height: 100%;
         width: 100%;
+
+        text {
+            user-select: none;
+        }
     }
 
     .unit-selector{
@@ -49,7 +53,6 @@ body {
 
         ~ *{
             user-select: none;
-            pointer-events: none;
         }
     }
 

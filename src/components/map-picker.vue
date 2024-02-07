@@ -147,7 +147,7 @@ export default {
         doSvg: async function(filepath = null){
             try{
                 const { base } = this.$refs;
-                const response = await fetch(filepath);
+                const response = await fetch(`../src/assets/svg/${ filepath }`);
                 const svgContent = await response.text();
                 
                 let styleSwiper = svgContent.replace(/<svg[^>]*>/, match => match.replace(/ style="[^"]*"/, '')); //# Remove Style <svg style="">
@@ -256,18 +256,14 @@ export default {
                 }
             }
         },
-        onSelectionStart: function(){
+        onSelectionStart: function(event){
             if(!this.activeEvent.includes('drag')) return;
 
             const [pointerX = 0, pointerY = 0] = d3.pointer(event, this.instance.node());
-            const containerRect = this.instance.node().getBoundingClientRect();
-
-            const x = Math.max(containerRect.left, Math.min(containerRect.right, pointerX));
-            const y = Math.max(containerRect.top, Math.min(containerRect.bottom, pointerY));
 
             this.selectionEl = this.instance.append('rect')
-                .attr('x', x)
-                .attr('y', y)
+                .attr('x', pointerX)
+                .attr('y', pointerY)
                 .attr('width', 0)
                 .attr('height', 0)
                 .attr('stroke-width', '1')
