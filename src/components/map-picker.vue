@@ -1,14 +1,17 @@
 <template>
     <div :style="containerStyle" :class="containerClass">
-        <!-- Action Tools -->
+        <!-- Tools -->
         <map-tools
-            @select-project="doSvg"
             @tool-move="((e) => moveable = e)"
             @tool-zoom="doZoom"
             @tool-reset="doReset">
+
+            <template #info>
+                <div class="text-left flex-1 text-600 px-3 line-height-3 text-sm">{{ keyboardKey.message }}</div>
+            </template>
         </map-tools>
 
-        <!-- Map Body -->
+        <!-- Editor -->
         <div ref="wrapper" class="flex-1 h-screen w-full overflow-hidden">
             <div
                 ref="base"
@@ -18,17 +21,8 @@
                 :style="{
                     transform: `scale(${ scale }) translate(${ offsetX }px, ${ offsetY }px)`
                 }">
+                <component :is="projectmap"></component>
             </div>
-        </div>
-
-        <!-- Footer Info -->
-        <div
-            v-html="(keyboardKey.message ? keyboardKey.message : '')"
-            class="text-right w-full text-600 px-3 line-height-3"
-            :style="{
-                fontSize: '10px',
-                height: '16px'
-            }">
         </div>
     </div>
 
@@ -56,6 +50,7 @@ export default {
         }
     },
     data: () => ({
+        projectmap: 'HypeResidence',
         instance: null,
         collection: [],
         shapeinvolve: ['rect', 'circle', 'ellipse', 'line', 'path', 'polygon', 'polyline', 'text', 'image'],
@@ -63,9 +58,9 @@ export default {
         keybind: null,
         moveable: false,
 
-        scale: 0.98,
+        scale: 0.95,
         offsetX: 0,
-        offsetY: 10,
+        offsetY: 0,
     }),
     watch: {
         modelValue: {
@@ -93,6 +88,25 @@ export default {
 
                     this.collection.push(e);
                 });
+            }
+        },
+        projectmap: {
+            immediate: true,
+            handler: async function(){
+                await this.$nextTick();
+
+                const { base } = this.$refs;
+                const svgElement = DomHandler.findSingle(base, 'svg');
+                const svgContent = new XMLSerializer().serializeToString(svgElement);
+
+                //# Drawer
+                base.innerHTML = helper.svgclean(svgContent);
+
+                //# Clear Model
+                this.doResetModel();
+
+                await helper.sleep(600);
+                await this.install();
             }
         }
     },
@@ -144,40 +158,6 @@ export default {
         },
     },
     methods: {
-        doSvg: async function(filepath = null){
-            try{
-                const { base } = this.$refs;
-                const response = await fetch(`../src/assets/svg/${ filepath }`);
-                const svgContent = await response.text();
-                
-                let styleSwiper = svgContent.replace(/<svg[^>]*>/, match => match.replace(/ style="[^"]*"/, '')); //# Remove Style <svg style="">
-                    styleSwiper = styleSwiper.replace(/class="([^"]*\bland\b[^"]*)"/g, 'class="unit-selector"'); //# Remove Unit Color
-
-                //# Remove Pins
-                const parser = new DOMParser();
-                const parsedSVG = parser.parseFromString(styleSwiper, 'image/svg+xml');
-                const mapPins = parsedSVG.querySelectorAll('.pin');
-
-                mapPins.forEach(e => e.parentNode.removeChild(e));
-
-                styleSwiper = new XMLSerializer().serializeToString(parsedSVG);
-
-                //# Clear Model
-                this.collection.splice(0, this.collection.length);
-                this.updateModel(clone(this.collection));
-
-                //# Final
-                base.innerHTML = styleSwiper;
-
-                await helper.sleep(600);
-
-                await this.install();
-
-                return styleSwiper;
-            }catch(e){
-                return e;
-            }
-        },
         doZoom: function(direction = 1){
             const { base } = this.$refs;
             const { height, width } = base.getBoundingClientRect();
@@ -207,6 +187,10 @@ export default {
             this.offsetY = 0;
 
             baseEl.style('transform', `scale(${ this.scale }) translate(${ this.offsetX }px, ${ this.offsetY }px)`);
+        },
+        doResetModel: function(){
+            this.collection.splice(0, this.collection.length);
+            this.updateModel(clone(this.collection));
         },
         install: async function(){
             try{

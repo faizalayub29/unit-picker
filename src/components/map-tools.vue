@@ -1,5 +1,6 @@
 <template>
     <div class="w-full flex align-items-center justify-content-end gap-3 py-1 px-2 surface-0 border-round-top">
+        <slot name="info"></slot>
         <!-- Selection Tools -->
         <span class="flex gap-2 align-items-center">
             <span @click="useReset" class="pi pi-refresh surface-200 flex align-items-center justify-content-center tool-button-size border-round border-1 border-300 text-600 hover:text-blue-500 hover:border-blue-300 cursor-pointer"></span>
@@ -15,13 +16,6 @@
             <span @click="useZoom(-1)" class="pi pi-search-minus surface-200 flex align-items-center justify-content-center tool-button-size border-round border-1 border-300 text-600 hover:text-blue-500 hover:border-blue-300 cursor-pointer"></span>
             <span @click="useZoom(1)" class="pi pi-search-plus surface-200 flex align-items-center justify-content-center tool-button-size border-round border-1 border-300 text-600 hover:text-blue-500 hover:border-blue-300 cursor-pointer"></span>
         </span>
-
-        <Divider layout="vertical" class="m-0"></Divider>
-
-        <!-- Project Selection Tools -->
-        <span class="flex">
-            <select-project @select="useSVG"></select-project>
-        </span>
     </div>
 </template>
 
@@ -30,7 +24,6 @@ export default {
     name: 'MapTools',
     emits: [
         'tool-move',
-        'select-project',
         'tool-zoom',
         'tool-reset'
     ],
@@ -41,9 +34,6 @@ export default {
         useMove: function(){
             this.move = !this.move;
             this.$emit('tool-move', this.move);
-        },
-        useSVG: function(url){
-            this.$emit('select-project', url);
         },
         useZoom: function(scale = 1){
             this.$emit('tool-zoom', scale);
