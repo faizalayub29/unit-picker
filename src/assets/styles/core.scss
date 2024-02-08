@@ -41,6 +41,7 @@ body {
         background: var(--surface-0);
         height: 100%;
         width: 100%;
+        border-radius: var(--border-radius);
 
         text {
             user-select: none;

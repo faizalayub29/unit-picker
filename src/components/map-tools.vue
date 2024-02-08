@@ -1,20 +1,22 @@
 <template>
-    <div class="w-full flex align-items-center justify-content-end gap-3 py-1 px-2 surface-0 border-round-top">
+    <div class="w-full flex align-items-center justify-content-end p-2 surface-0 border-round-top">
         <slot name="info"></slot>
         <!-- Selection Tools -->
         <span class="flex gap-2 align-items-center">
-            <span @click="useReset" class="pi pi-refresh surface-200 flex align-items-center justify-content-center tool-button-size border-round border-1 border-300 text-600 hover:text-blue-500 hover:border-blue-300 cursor-pointer"></span>
+            <kbd @click="useReset" class="px-2 py-1 text-xs font-semibold text-gray-800 bg-gray-100 border-1 border-gray-200 border-round-md cursor-pointer select-none hover:bg-gray-200 transition-all transition-duration-100">reset</kbd>
 
-            <span
-                @click="useMove"
-                :class="['pi pi-arrows-alt flex align-items-center justify-content-center tool-button-size border-round border-1 cursor-pointer', {
+            <kbd
+                v-html="'position'"
+                @click="useMove(!this.move)"
+                :class="['px-2 py-1 text-xs font-semibold border-round-md cursor-pointer select-none transition-all transition-duration-100 border-1', {
                     'bg-blue-500 border-blue-300 text-0': (move == true),
-                    'surface-200 border-300 text-600 hover:text-blue-500 hover:border-blue-300': (move == false)
+                    'text-gray-800 bg-gray-100 border-gray-200 hover:bg-gray-200': (move == false)
                 }]">
-            </span>
-            
-            <span @click="useZoom(-1)" class="pi pi-search-minus surface-200 flex align-items-center justify-content-center tool-button-size border-round border-1 border-300 text-600 hover:text-blue-500 hover:border-blue-300 cursor-pointer"></span>
-            <span @click="useZoom(1)" class="pi pi-search-plus surface-200 flex align-items-center justify-content-center tool-button-size border-round border-1 border-300 text-600 hover:text-blue-500 hover:border-blue-300 cursor-pointer"></span>
+            </kbd>
+
+            <kbd @click="useZoom(-1)" class="px-2 py-1 text-xs font-semibold text-gray-800 bg-gray-100 border-1 border-gray-200 border-round-md cursor-pointer select-none hover:bg-gray-200 transition-all transition-duration-100">zoom out</kbd>
+
+            <kbd @click="useZoom(1)" class="px-2 py-1 text-xs font-semibold text-gray-800 bg-gray-100 border-1 border-gray-200 border-round-md cursor-pointer select-none hover:bg-gray-200 transition-all transition-duration-100">zoom in</kbd>
         </span>
     </div>
 </template>
@@ -31,8 +33,8 @@ export default {
         move: false
     }),
     methods: {
-        useMove: function(){
-            this.move = !this.move;
+        useMove: function(flag){
+            this.move = flag;
             this.$emit('tool-move', this.move);
         },
         useZoom: function(scale = 1){

@@ -1,8 +1,5 @@
 <template>
-    <div class="flex flex-column p-3 gap-1">
-        <map-picker v-model="dataset" :style="'height: 50rem !important;'"></map-picker>
-    </div>
-    <button @click="addItems">Click Me</button>
+    <map-picker v-model="dataset"></map-picker>
 </template>
 
 <script>

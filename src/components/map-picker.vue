@@ -2,12 +2,31 @@
     <div :style="containerStyle" :class="containerClass">
         <!-- Tools -->
         <map-tools
-            @tool-move="((e) => moveable = e)"
+            ref="tools"
+            @tool-move="doMove"
             @tool-zoom="doZoom"
             @tool-reset="doReset">
 
             <template #info>
-                <div class="text-left flex-1 text-600 px-3 line-height-3 text-sm">{{ keyboardKey.message }}</div>
+                <div class="flex align-items-center gap-1 animation-duration-100 fadein px-2">
+                    <kbd
+                        v-html="'add'"
+                        @click="doAction('Equal')"
+                        :class="['px-2 py-1 text-xs font-semibold border-round-md cursor-pointer select-none transition-all transition-duration-100 border-1', {
+                            'bg-blue-500 border-blue-300 text-0': (keyboardKey.id == 'add'),
+                            'text-gray-800 bg-gray-100 border-gray-200 hover:bg-gray-200': (keyboardKey.id != 'add')
+                        }]">
+                    </kbd>
+
+                    <kbd
+                        v-html="'remove'"
+                        @click="doAction('Minus')"
+                        :class="['px-2 py-1 text-xs font-semibold border-round-md cursor-pointer select-none transition-all transition-duration-100 border-1', {
+                            'bg-blue-500 border-blue-300 text-0': (keyboardKey.id == 'remove'),
+                            'text-gray-800 bg-gray-100 border-gray-200 hover:bg-gray-200': (keyboardKey.id != 'remove')
+                        }]">
+                    </kbd>
+                </div>
             </template>
         </map-tools>
 
@@ -15,8 +34,9 @@
         <div ref="wrapper" class="flex-1 h-screen w-full overflow-hidden">
             <div
                 ref="base"
-                :class="['h-full w-full transition-all transition-duration-100 transition-linear content-map', {
-                    'shadow-3 border-1 border-orange-400': moveable
+                :class="['border-round border-2 shadow-3 h-full w-full transition-all transition-duration-100 transition-linear content-map', {
+                    'border-orange-400': moveable,
+                    'border-300': !moveable,
                 }]"
                 :style="{
                     transform: `scale(${ scale }) translate(${ offsetX }px, ${ offsetY }px)`
@@ -26,9 +46,13 @@
         </div>
     </div>
 
-    <ol class="flex m-0 list-none p-0 flex-wrap">
-        <li v-for="(data, index) in collection" :key="index" class="pr-3">{{ data }}</li>
-    </ol>
+    <!-- Just Dummy -->
+    <div class="overflow-auto w-20rem py-3 surface-700 border-round-xl">
+        <ol class="m-0 list-none p-0 gap-2 flex flex-column w-full">
+            <li v-for="(data, index) in collection" :key="index" class="text-center text-0 white-space-nowrap">{{ (index + 1) }} - {{ data }}</li>
+            <li v-if="collection.length == 0" class="text-400 text-center">For testing purpose <br>Something Will Appear Here</li>
+        </ol>
+    </div>
 </template>
 
 <script>
@@ -44,6 +68,7 @@ export default {
     props: {
         class: null,
         style: null,
+        holdKey: false,
         modelValue: {
             type: Array,
             default: []
@@ -115,12 +140,14 @@ export default {
             const key = (this.keybind);
             const output = { id: null, message: '' };
 
-            if(key == KeyCode.CODE_META_LEFT){
+            if(key == KeyCode.CODE_EQUALS){
                 output.id = 'add';
+                output.key = 'ctrl';
             }
 
-            if(key == KeyCode.CODE_SHIFT_LEFT){
+            if(key == KeyCode.CODE_MINUS || key == KeyCode.CODE_DASH){
                 output.id = 'remove';
+                output.key = 'shift';
             }
 
             switch(output.id){
@@ -178,6 +205,13 @@ export default {
 
             base.style.transform = `scale(${this.scale})`;
         },
+        doMove: function(e){
+            if(e){
+                this.keybind = null;
+            }
+
+            this.moveable = e;
+        },
         doReset: function(){
             const { base } = this.$refs;
             const baseEl = d3.select(base);
@@ -187,6 +221,17 @@ export default {
             this.offsetY = 0;
 
             baseEl.style('transform', `scale(${ this.scale }) translate(${ this.offsetX }px, ${ this.offsetY }px)`);
+        },
+        doAction: function(action){
+            const { tools } = this.$refs;
+
+            if(action == this.keybind){
+                this.keybind = null;
+                return;
+            }
+
+            tools.useMove(false);
+            this.keybind = action;
         },
         doResetModel: function(){
             this.collection.splice(0, this.collection.length);
@@ -361,13 +406,23 @@ export default {
             this.$emit('update:modelValue', value);
         }, 300)
     },
+    setup: function(){
+        const params = new URLSearchParams(window.location.search);
+        const dummymap = (params.get('map') ?? null);
+
+        if(dummymap){
+            return { projectmap: dummymap };
+        }
+    },
     mounted: function(){
         window.addEventListener('keydown', ({ code }) => {
             this.keybind = code;
         });
 
         window.addEventListener('keyup', (event) => {
-            this.keybind = null;
+            if(this.holdKey){
+                this.keybind = null;
+            }
         });
     }
 }
